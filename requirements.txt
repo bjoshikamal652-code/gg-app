@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+starlette
+itsdangerous
+google-auth
