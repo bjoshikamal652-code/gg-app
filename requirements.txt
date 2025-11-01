@@ -4,3 +4,4 @@ python-multipart
 starlette
 itsdangerous
 google-auth
+requests
